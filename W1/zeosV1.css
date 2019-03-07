@@ -169,17 +169,17 @@ body {
     margin-top: -12.5%;
     background-image: url(img/foot_bg/zoq.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    outline: 3px solid red;
 }
 
 .zoq span {
+    display: block;
     font-family: 'Cinzel Decorative', cursive;
     font-weight: 400;
     font-size: 3.6vw;
     color: #cdb378;
     margin-left: 12.5%;
-    margin-bottom: 10%;
-    margin-top: 21.3%;
+    margin-top: 10%;
 }
 
 .zoq p {
