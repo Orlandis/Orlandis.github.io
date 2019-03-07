@@ -146,7 +146,8 @@ body {
 .tjob p {
     margin: 0;
     padding: 0;
-    font-size: 1.2vw;
+    font-size: 1.5vw;
+    /*font-size: 1.2vw;*/
     margin-left: 15%;
     color: #cdb378;
     font-family: 'Amiri', serif;
