@@ -149,7 +149,7 @@ body {
     font-size: 1vw;
     margin-left: 15%;
     color: #cdb378;
-    font-family: 'Amiri', serif;
+    font-family: 'Amiri', sans-serif;
     font-weight: 200;
 }
 
@@ -189,7 +189,7 @@ body {
     padding: 0;
     font-size: 1.2vw;
     color: #b4ba98;
-    font-family: 'Amiri', serif;
+    font-family: 'Amiri', sans-serif;
     font-weight: 200;
     outline: 1px solid red;
     margin-left: 12.5%;
