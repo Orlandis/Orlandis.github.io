@@ -11,10 +11,9 @@ body {
 }
 
 .container {
-    width: 100%;
+/*    width: 100%;*/
     max-width: 2000px;
     margin: 0 auto;
-    height: auto;
 }
 
 .container .logo img{
@@ -170,7 +169,7 @@ body {
     background-image: url(img/foot_bg/zoq.jpg);
     background-repeat: no-repeat;
     outline: 3px solid red;
-    background-size: cover;
+    background-size:auto;
 }
 
 .zoq span {
