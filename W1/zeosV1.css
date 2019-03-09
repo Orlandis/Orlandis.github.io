@@ -168,7 +168,6 @@ body {
     margin-top: -12.5%;
     background-image: url(img/foot_bg/zoq.jpg);
     background-repeat: no-repeat;
-    outline: 3px solid red;
     background-size:100%;
     -webkit-background-size: 100%;
 }
@@ -212,7 +211,7 @@ body {
     font-weight: bold;
 }
 
-.zoq a:hover {
+.zoq a:hover, .zoq a:active, .zoq a:link {
     color: #cdb378;
     border-color: #cdb378;        
 }
@@ -227,6 +226,19 @@ body {
 
 .bottle img {
     width: 100%;
+}
+
+.man_drink_beer {
+    height: 16.9%;
+    background-image: url(img/foot_bg/man_beer.jpg);
+    background-size: cover;
+}
+
+.man_drink_beer p {
+    margin: 0;
+    display: block;
+    padding-top: 20%;
+    padding-bottom: 20%;
 }
 /************************************************************/
 
