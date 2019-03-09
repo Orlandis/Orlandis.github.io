@@ -252,6 +252,7 @@ body {
     width: 34%;
     float: left;
     outline: 2px solid red;
+    margin-left: 9%;
 }
 
 .handcraft_img span{
@@ -264,7 +265,7 @@ body {
     width: 49%;
     height: auto;
     float: right;
-    margin-top: -10%;
+    margin-top: -8%;
 /*    z-index: -2;*/
 }
 
