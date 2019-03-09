@@ -191,16 +191,14 @@ body {
     color: #b4ba98;
     font-family: 'Amiri', 'Arial', sans-serif;
     font-weight: 200;
-    outline: 1px solid red;
     margin-left: 12.5%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 .zoq a{
     display: block;
-/*    position: absolute;*/
     margin-left: 12%;
-    margin-bottom: 18%;
+    margin-bottom: 5%;
     text-decoration: none;
     width: 13%;
     height: 11.6%;
@@ -212,6 +210,11 @@ body {
     font-size: 1vw;
     font-family: 'Myriad Pro', serif;
     font-weight: bold;
+}
+
+.zoq a:hover {
+    color: #cdb378;
+    border-color: #cdb378;        
 }
 
 .bottle {
