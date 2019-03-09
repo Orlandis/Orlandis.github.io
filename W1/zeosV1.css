@@ -224,21 +224,23 @@ body {
     right: 23%;
 }
 
-.bottle img {
+.bottle img, .man_drink_beer img {
     width: 100%;
-}
-
-.man_drink_beer {
-    height: 16.9%;
-    background-image: url(img/foot_bg/man_beer.jpg);
-    background-size: cover;
 }
 
 .man_drink_beer p {
     margin: 0;
     display: block;
+/*
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 30%;
+*/
+    
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 700;
+    font-size: 3vw;
+    margin-left: 20%;
+
 }
 /************************************************************/
 
