@@ -228,18 +228,22 @@ body {
     width: 100%;
 }
 
+.man_drink_beer {
+    position: absolute;
+    z-index: -1;
+}
+
 .man_drink_beer p {
     margin: 0;
     display: block;
-/*
-    padding-top: 20%;
-    padding-bottom: 30%;
-*/
-    
     font-family: 'Cinzel Decorative', cursive;
     font-weight: 700;
     font-size: 3vw;
     margin-left: 20%;
+    position: absolute;
+    top: 35%;
+    right: 12.5%;
+    color: #1a1c0f;
 
 }
 /************************************************************/
