@@ -166,10 +166,13 @@ body {
     width: 86.4%;
     height: 9.4%;
     margin-top: -12.5%;
+}
+
+.zoq .test1 {
     background-image: url(img/foot_bg/zoq.jpg);
     background-repeat: no-repeat;
     outline: 3px solid red;
-    background-size:auto;
+    background-size:100%;
 }
 
 .zoq span {
