@@ -184,6 +184,12 @@ body {
     margin-bottom: 6.5%;
 }
 
+.zoq .zoq_p p {
+    font-size: 1.2vw;
+    color: #cdb378;
+    margin-left: 10%;
+}
+
 /*
 .zoq p {
     margin: 0;
