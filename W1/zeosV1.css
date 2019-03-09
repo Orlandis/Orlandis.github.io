@@ -173,6 +173,7 @@ body {
     background-repeat: no-repeat;
     outline: 3px solid red;
     background-size:100%;
+    -webkit-background-size: 100%;
 }
 
 .zoq span {
