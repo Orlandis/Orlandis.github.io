@@ -251,22 +251,34 @@ body {
 .hand_qua_text {
     width: 34%;
     float: left;
-    outline: 2px solid red;
-    margin-left: 9%;
+    margin-left: 11%;
+    margin-top: 7.5%;
 }
 
-.handcraft_img span{
-    
+.hand_qua_text span{
+    display: block;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 700;
+    font-size: 3vw;
+    color: #cdb378;
+    margin-bottom: 10%;
+}
+
+.hand_qua_text p{
+    margin: 0;
+    padding: 0;
+    font-size: 1.18vw;
+    color: #b4ba98;
+    font-family: 'Amiri', 'Arial', sans-serif;
+    font-weight: 200;
 }
 
 .handcraft_img img {
-/*    display: inline-block;*/
     position: relative;
     width: 49%;
     height: auto;
     float: right;
     margin-top: -8%;
-/*    z-index: -2;*/
 }
 
 .clearfix {
