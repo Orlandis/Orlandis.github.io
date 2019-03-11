@@ -408,8 +408,12 @@ body {
     right: -50px;
     top: 0;
     transform: rotate(45deg);
-        
 }
+
+.close:hover::before, .close:hover::after {
+    background-color: #cdb378;
+}
+
 
 /************************************************************/
 
