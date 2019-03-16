@@ -361,15 +361,15 @@ body {
     position: fixed;
     z-index: 16;
     color: white;
-    width: 40%;
+    width: 45%;
     border: 3px solid #cdb378;
     border-radius: 10px;
-    font-size: 3vw;
+    font-size: 2.5vw;
     line-height: 2;
     margin-left: 50%;
     margin-right: 50%;
     transform: translateX(-50%);
-    margin-top: 10%;
+    margin-top: 5%;
     text-align: center;
     padding: 5%;
 }
